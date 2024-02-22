@@ -1,3 +1,5 @@
+I hope that it is ok that this code is public, since I didn't want to have the markers veiw have to request permision the veiw the code. The excel spreadsheet has to be downloaded to be veiwed, this can be done by pressing the file and locating the teensy download button on the right side
+
 q1-sentence.py contains my quite bad code that I quickly wrote for Question 1
 
 q2-splitiing.xslx contains two excel sheets
